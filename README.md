@@ -74,7 +74,7 @@ src/main/java/com/example/ticketing
 │
 └── TicketManagementSystemApplication.java
 
-
+```
 ---
 
 ## 📡 API Endpoints
