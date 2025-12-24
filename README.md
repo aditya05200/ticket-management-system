@@ -107,28 +107,28 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
 ```
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
-Clone or download the project
+- Clone or download the project
 
-Configure MySQL database
+- Configure MySQL database
 
-Update application.properties
+- Update application.properties
 
-Run:
+### Run:
 
 mvn spring-boot:run
 
 
-Server starts at:
+### Server starts at:
 
 http://localhost:8080
 
-🧪 Testing
+## 🧪 Testing
 
-APIs tested using Postman
+- APIs tested using Postman
 
-JWT token required in header:
+- JWT token required in header:
 
-Authorization: Bearer <JWT_TOKEN>
+- Authorization: Bearer <JWT_TOKEN>
 
