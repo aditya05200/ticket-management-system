@@ -1,7 +1,7 @@
 # 🎫 Ticket Management System 
 
 ---
-
+![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![MySQL](https://img.shields.io/badge/MySQL-DB-blue)
 ## 1️⃣ Introduction
 
 This project is a **Ticket Management System backend** built using **Spring Boot**.  
