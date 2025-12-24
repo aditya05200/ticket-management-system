@@ -132,3 +132,9 @@ mvn spring-boot:run
 
 - Authorization: Bearer <JWT_TOKEN>
 
+## 👨‍💻 Author
+**Aditya Mishra**
+
+- [LinkedIn Profile](https://www.linkedin.com/in/aditya-mishra-x)
+- [GitHub Profile](https://github.com/aditya05200)
+
