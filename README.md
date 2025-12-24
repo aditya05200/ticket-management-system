@@ -1,4 +1,4 @@
-# 🎫 Ticket Management System – Spring Boot (Start to End Guide)
+# 🎫 Ticket Management System 
 
 ---
 
