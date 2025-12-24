@@ -61,7 +61,7 @@ Tickets move through the following stages:
 ## 5️⃣ Project Architecture
 
 The project follows **layered architecture**:
-
+```text
 src/main/java/com/example/ticketing
 │
 ├── controller # REST controllers
