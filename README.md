@@ -117,7 +117,7 @@ spring.jpa.show-sql=true
 
 ### Run:
 
-mvn spring-boot:run
+```mvn spring-boot:run```
 
 
 ### Server starts at:
